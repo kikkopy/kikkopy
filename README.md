@@ -21,12 +21,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nightkikko&label=Profile%20Views&color=3994db&style=flat" alt="nightkikko" />
 </p>
-<h3 align="center">📌 My Discord Servers</h3>
-<p align="center">
-  <a href="https://discord.gg/mercato" target="_blank">🔹 Mercato</a><br />
-  <a href="https://discord.gg/freeforreal" target="_blank">🔹 FreeForReal</a><br />
-  <a href="https://discord.gg/ffreal-team" target="_blank">🔹 FFReal Team</a>
-</p>
 <h3 align="center">📌 My Websites</h3>
 <p align="center">
   <a href="https://vapr.site" target="_blank">🔹 Vapr</a><br />
